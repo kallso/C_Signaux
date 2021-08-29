@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Signaux"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Signaux3_1">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug/Signaux3_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 Signaux3_1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Signaux3_1/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug/Signaux3_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 Signaux3_1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Signaux3_2">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug/Signaux3_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 Signaux3_2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Signaux3_2/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug/Signaux3_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 Signaux3_2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Signaux2">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug/Signaux2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 Signaux2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Signaux2/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug/Signaux2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 Signaux2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Signaux1">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug/Signaux1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 Signaux1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Signaux1/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug/Signaux1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 Signaux1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Signaux4">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug/Signaux4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 Signaux4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Signaux4/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug/Signaux4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 Signaux4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Signaux">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug/Signaux" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 Signaux"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Signaux/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug/Signaux" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Signaux/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 Signaux/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Signaux/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/Signaux/costes_exo1.c">
+			<Option target="Signaux1"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/Signaux/costes_exo2.c">
+			<Option target="Signaux2"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/Signaux/costes_exo3_1.c">
+			<Option target="Signaux3_1"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/Signaux/costes_exo3_2.c">
+			<Option target="Signaux3_2"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/Signaux/costes_exo4.c">
+			<Option target="Signaux4"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/Signaux/main.c">
+			<Option target="Signaux"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/Signaux/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
